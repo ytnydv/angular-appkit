@@ -1,0 +1,26 @@
+
+> uws@9.14.0 install D:\CODE\ang5\starter-kit\node_modules\uws
+> node-gyp rebuild > build_log.txt 2>&1 || exit 0
+
+
+> node-sass@4.9.2 install D:\CODE\ang5\starter-kit\node_modules\node-sass
+> node scripts/install.js
+
+Cached binary found at C:\Users\Maxxx\AppData\Roaming\npm-cache\node-sass\4.9.2\win32-x64-57_binding.node
+
+> puppeteer@1.6.2 install D:\CODE\ang5\starter-kit\node_modules\puppeteer
+> node install.js
+
+Chromium downloaded to D:\CODE\ang5\starter-kit\node_modules\puppeteer\.local-chromium\win64-575458
+
+> node-sass@4.9.2 postinstall D:\CODE\ang5\starter-kit\node_modules\node-sass
+> node scripts/build.js
+
+Binary found at D:\CODE\ang5\starter-kit\node_modules\node-sass\vendor\win32-x64-57\binding.node
+Testing binary
+Binary is fine
+
+> @angular/cli@6.0.8 postinstall D:\CODE\ang5\starter-kit\node_modules\@angular\cli
+> node ./bin/ng-update-message.js
+
+added 1476 packages in 420.97s
